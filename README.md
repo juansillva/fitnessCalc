@@ -18,9 +18,6 @@ Treinar estruturação de código usando classes, métodos e instâncias para to
 
 ---
 
-## 📸 Preview
-
-> *(Adicione aqui uma imagem ou link do projeto funcionando)*
 
 ---
 
