@@ -19,8 +19,6 @@ Treinar estruturação de código usando classes, métodos e instâncias para to
 ---
 
 
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por [Juan ✦](https://github.com/juansillva)  
